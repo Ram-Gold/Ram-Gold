@@ -4,6 +4,8 @@
 ## About Me
 - 🌱 I’m currently learning Javascript and Svelte
 
+
+## 🏆 Hackathon Stats
 | Joined  | Wins | Finalist | Champion |
 | ------------- | ------------- | ------------- | ------------- |
 | 2  | 0  | 1  | 1  |
