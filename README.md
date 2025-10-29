@@ -3,6 +3,12 @@
 
 ## About Me
 - 🌱 I’m currently learning Javascript and Svelte
+
+| Joined  | Wins | Finalist | Champion |
+| ------------- | ------------- | ------------- | ------------- |
+| 2  | 0  | 1  | 1  |
+
+
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ram-gold&show_icons=true&theme=radical)
 ## Top Languages
