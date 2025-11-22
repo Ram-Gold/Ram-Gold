@@ -8,7 +8,7 @@
 ## 🏆 Hackathon Stats
 | Joined  | Wins | Finalist | Champion |
 | ------------- | ------------- | ------------- | ------------- |
-| 2  | 0  | 1  | 1  |
+| 3  | 0  | 1  | 1  |
 
 
 ## GitHub Stats
