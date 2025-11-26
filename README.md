@@ -2,7 +2,7 @@
 <h3 align="center">Front-end developer, Graphic Designer and College Student</h3>
 
 ## About Me
-- 🌱 I’m currently learning Javascript and Svelte
+- 🌱 I’m currently learning Javascript and React
 
 
 ## 🏆 Hackathon Stats
